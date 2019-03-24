@@ -1,0 +1,10 @@
+C:\Users\ilyas\source\repos\project24-03\project24-03\bin\Debug\project24-03.exe.config
+C:\Users\ilyas\source\repos\project24-03\project24-03\bin\Debug\project24-03.exe
+C:\Users\ilyas\source\repos\project24-03\project24-03\bin\Debug\project24-03.pdb
+C:\Users\ilyas\source\repos\project24-03\project24-03\obj\Debug\project24-03.csprojAssemblyReference.cache
+C:\Users\ilyas\source\repos\project24-03\project24-03\obj\Debug\project24_03.Form1.resources
+C:\Users\ilyas\source\repos\project24-03\project24-03\obj\Debug\project24_03.Properties.Resources.resources
+C:\Users\ilyas\source\repos\project24-03\project24-03\obj\Debug\project24-03.csproj.GenerateResource.cache
+C:\Users\ilyas\source\repos\project24-03\project24-03\obj\Debug\project24-03.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\source\repos\project24-03\project24-03\obj\Debug\project24-03.exe
+C:\Users\ilyas\source\repos\project24-03\project24-03\obj\Debug\project24-03.pdb
